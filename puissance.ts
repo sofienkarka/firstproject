@@ -1,5 +1,5 @@
 function puissance(n:number)
-{
+{ var x:number;
 
 
 
@@ -7,5 +7,5 @@ function puissance(n:number)
 
 
 
-    
+
 }
